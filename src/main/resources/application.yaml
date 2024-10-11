@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: broken-keys-backend
+raiderio:
+  base-url: 'https://raider.io/api/v1/'
+  current-season: "season-tww-1"
